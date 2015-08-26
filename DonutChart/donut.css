@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  font: 25px sans-serif;
+}
+
+.white {
+  fill: #fff;
+}
+
+.arc path {
+  stroke: #fff;
+}
