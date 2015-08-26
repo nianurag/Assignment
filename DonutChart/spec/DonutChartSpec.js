@@ -1,4 +1,4 @@
-describe('Test D3.js Donut Chart with jasmine ', function() {
+describe('Test D3.js Donut Chart with jasmine', function() {
   var c;
 
   beforeEach(function() {
