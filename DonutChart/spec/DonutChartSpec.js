@@ -10,7 +10,7 @@ describe('Test D3.js Donut Chart with jasmine ', function() {
     d3.selectAll('svg').remove();
   });
 
-  describe('the svg' ,function() {
+  describe('the donut chart' ,function() {
     it('should be created', function() {
       expect(getSvg()).not.toBeNull();
     });
